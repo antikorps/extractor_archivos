@@ -8,8 +8,8 @@ Su uso original se pensó para archivos multimedia, pero es completamente config
 
 No es necesaria ningún tipo de instalación, únicamente ejecutar los binarios descargados.
 
-* GNU/Linux amd64
-* Windows amd64
+* [GNU/Linux amd64](https://github.com/antikorps/extractor_archivos/raw/main/bin/extractor_archivos)
+* [Windows amd64](https://github.com/antikorps/extractor_archivos/raw/main/bin/extractor_archivos.exe)
 
 ## Funcionamiento
 
